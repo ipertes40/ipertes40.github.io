@@ -85,3 +85,8 @@
     -ms-transform: scale(0.5);
     -o-transform: scale(0.5);
   }
+
+  /* 外挂标签 */
+.timeline-item-content{
+  background: #0D0D0D !important
+}
