@@ -87,6 +87,11 @@
   }
 
   /* 外挂标签 */
-.timeline-item-content{
+
+  .timeline-item-content{
+    background: #F6F6F6 !important
+  }
+
+[data-theme="dark"]  .timeline-item-content{
   background: #0D0D0D !important
 }
